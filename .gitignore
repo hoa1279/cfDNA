@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.positai
+.DS_Store
+renv/library/
+renv/staging/
+*.zip
+DMRs/
+*.RData
+*.rds
+*.csv
+*.html
+
